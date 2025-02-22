@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Bienvenido a mi rincón en GitHub! 🚀</h1>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+![Views](https://komarev.com/ghpvc/?username=thebhacker&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/theBhacker?style=flat&logo=github)
 <br>
 
 <img align="right" height="250" width="250" alt="" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRtcmpqMmNtdmd0emJrZWpxdHprcmc5bjM5M2h4Z2gyeXdveWh4YiZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" 
