@@ -69,6 +69,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thebhacker&repo=Bandit-Levels&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Bandit-Levels" />
 </a>
 
-<a href="https://github.com/theBhacker/Porfolio-Web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thebhacker&repo=Porfolio-Web&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Porfolio-Web" />
+<a href="https://github.com/theBhacker/porfolio-astro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thebhacker&repo=porfolio-astro&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="porfolio-astro" />
 </a>
