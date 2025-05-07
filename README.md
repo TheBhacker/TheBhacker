@@ -30,10 +30,6 @@
 
 <br>
 
-[![committers.top badge](https://user-badge.committers.top/spain_private/thebhacker.svg)](https://user-badge.committers.top/spain_private/thebhacker)
-
-<br>
-
 <a href="https://app.hackthebox.com/users/2053534"><img src="https://www.hackthebox.com/badge/image/2053534" alt="HackTheBox"></a>
 
 <hr>
