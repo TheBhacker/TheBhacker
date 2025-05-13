@@ -13,7 +13,7 @@
 
 - 🛠 &nbsp; Entusiasta del Hacking 👨‍💻 y Fanático de Linux 🐧
 - 🚀 &nbsp; Aquí encontrarás las herramientas y entornos que he desarrollado.
-- 🎯 &nbsp; Mi objetivo es ofrecerte recursos claros, intuitivos y eficaces para potenciar tus proyectos.
+- 🎯 &nbsp; Mi objetivo es crear herramientas y entornos para optimizar el tiempo de trabajo
 - 💬 &nbsp; Si tienes dudas, comentarios o sugerencias, ¡no dudes en contactarme! 💬✨
 
 
