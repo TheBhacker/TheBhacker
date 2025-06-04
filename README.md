@@ -44,28 +44,41 @@
 <br>
 
 
-<div align = center>
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thebhacker&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebhacker&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&layout=compact&langs_count=8"/>
-
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thebhacker&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true"/>
- 
-</div>
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<p align="center">
+  <a href="https://github.com/theBhacker">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=theBhacker&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/theBhacker">
+    <img align="center" src="https://streak-stats.demolab.com?user=theBhacker&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+  </a>
+</p>
 
 <br>
 
-## 🗂️ Highlight Projects
+<h2 align="center">🗂️ Highlight Projects</h2>
 
-<a href="https://github.com/theBhacker/Custom-Bspwm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thebhacker&repo=Custom-Bspwm&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Custom-Bspwm" />
-</a>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/theBhacker/Custom-Bspwm">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thebhacker&repo=Custom-Bspwm&show_icons=true&line_height=27&title_color=c56a90&text_color=ffffff&icon_color=c56a90&bg_color=0,000000,441350" alt="Custom-Bspwm" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/theBhacker/porfolio-astro">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thebhacker&repo=porfolio-astro&show_icons=true&line_height=27&title_color=c56a90&text_color=ffffff&icon_color=c56a90&bg_color=0,000000,441350" alt="Bandit-Levels" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/theBhacker/Bandit-Levels">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thebhacker&repo=Bandit-Levels&show_icons=true&line_height=27&title_color=c56a90&text_color=ffffff&icon_color=c56a90&bg_color=0,000000,441350" alt="porfolio-astro" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/theBhacker/Bandit-Levels">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thebhacker&repo=Bandit-Levels&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Bandit-Levels" />
-</a>
 
-<a href="https://github.com/theBhacker/porfolio-astro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thebhacker&repo=porfolio-astro&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="porfolio-astro" />
-</a>
+
