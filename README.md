@@ -75,14 +75,7 @@
     </td>
     <td>
       <a href="https://github.com/theBhacker/porfolio-astro">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thebhacker&repo=porfolio-astro&show_icons=true&line_height=27&title_color=c56a90&text_color=ffffff&icon_color=c56a90&bg_color=0,000000,441350" alt="Bandit-Levels" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/theBhacker/Bandit-Levels">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thebhacker&repo=Bandit-Levels&show_icons=true&line_height=27&title_color=c56a90&text_color=ffffff&icon_color=c56a90&bg_color=0,000000,441350" alt="porfolio-astro" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thebhacker&repo=porfolio-astro&show_icons=true&line_height=27&title_color=c56a90&text_color=ffffff&icon_color=c56a90&bg_color=0,000000,441350" alt="porfolio-astro" />
       </a>
     </td>
   </tr>
